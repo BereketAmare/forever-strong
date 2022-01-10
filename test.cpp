@@ -2,7 +2,7 @@
 Tibebu Getachew
 Bereket Amare
 Kidus Mekonnen
-AAU 2018/19 */
+2018/19 */
 
 
 // including the necessary header files
